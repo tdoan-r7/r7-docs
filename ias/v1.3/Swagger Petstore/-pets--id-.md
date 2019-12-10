@@ -1,0 +1,4 @@
+---
+title: "/pets/{id}"
+excerpt: ""
+---
